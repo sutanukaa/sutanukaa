@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sutanukaa
 - 👀 I’m interested in Web Development and Machine Learning
-- 🌱 I’m currently learning MERN Stack and OpenCv
-- 💞️ I’m looking to collaborate on any projects in this domain
+- 🌱 I’m currently learning MERN Stack and OpenCV
+- 💞️ I’m looking to collaborate on any projects in these domains
 - 📫 How to reach me @sutostfu on instagram
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm addicted to caffeine
