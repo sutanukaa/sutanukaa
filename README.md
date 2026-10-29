@@ -2,14 +2,14 @@
   <img src="output/bonsai-growth.gif" width="384" alt="my git-bonsai" />
 </p>
 
-<h3 align="center">Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to lead people, Helps them to achieve their goals and consistently looking for innovating something for improving lives of people</h3>
+<h3 align="center">if (night && tea < 5) { keepBrewing(); } else { shipCuteCode(); } 🌙</h3>
 
 <p align="center">
   · <a href="https://drive.google.com/file/d/1c7Ckf0dd2E-yrn8CQ-JKv9m1IfiX2PdP/view?usp=sharing"><b>Resume</b></a> · <a href="mailto:sutanukachakraborty004@gmail.com"><b>Email Me</b></a> ·
 </p>
 
 <p align="center">
-  <b>Full-Stack Developer</b> | <b>CSE Undergrad @ RCCIIT</b>
+  <b>Full-Stack Developer</b> | <b>CSE Undergrad</b>
 </p>
 
 <p align="center">
@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-  [![grown with git-bonsai](https://img.shields.io/badge/🌳_grown_with-git--bonsai-2ea44f)](https://github.com/egorthinks/git-bonsai)
+  <a href="https://github.com/egorthinks/git-bonsai"><img src="https://img.shields.io/badge/🌳_grown_with-git--bonsai-2ea44f" alt="grown with git-bonsai"></a>
 </p>
 
 <p align="center">
